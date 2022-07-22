@@ -1,0 +1,29 @@
+{
+  "name": "indonesian-names",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "suryahadiningrat",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "typescript": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryahadiningrat/figma-plugin-indonesian-names.git"
+  },
+  "keywords": [
+    "figma",
+    "plugin",
+    "indonesian",
+    "names"
+  ],
+  "bugs": {
+    "url": "https://github.com/suryahadiningrat/figma-plugin-indonesian-names/issues"
+  },
+  "homepage": "https://github.com/suryahadiningrat/figma-plugin-indonesian-names#readme"
+}
